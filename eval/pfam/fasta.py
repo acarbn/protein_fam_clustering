@@ -1,3 +1,4 @@
+# Convert seq.csv file into fasta format for InterPro searchh
 import pandas as pd
 
 # Load CSV
