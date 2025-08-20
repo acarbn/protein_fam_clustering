@@ -68,8 +68,3 @@ python3 -m src.compare_communities_pfam esm2_t33_650M_local
 ├── compare_communities_pfam.py  # PFAM comparison script
 ├── requirements.txt       # Python dependencies
 └── README.md
-
-
-
-
-
